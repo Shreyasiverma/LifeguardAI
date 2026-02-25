@@ -48,7 +48,7 @@ Our mission is to bridge the gap between "noticing a symptom" and "getting profe
 ### 1️⃣ Clone & Navigate
 
 ```bash
-git clone https://github.com/Shreyasiverma/techtitansYUKTI
+git clone https://github.com/Shreyasiverma/LifeguardAI
 
 
 ```
